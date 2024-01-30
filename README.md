@@ -11,7 +11,7 @@
 
 <p>
   <a href="https://vitepress.dev/"><img src="https://img.shields.io/badge/vitepress-%2335495e.svg?style=flat&logo=vuedotjs&logoColor=%23#10B981" /></a>
-  <a href="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white">Conventional Commits</a>
+  <a href="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white"><img src="https://img.shields.io/badge/Conventional%20Commits-1.0.0-%23FE5196?logo=conventionalcommits&logoColor=white" /></a>
 </p>
 
 ## Overview

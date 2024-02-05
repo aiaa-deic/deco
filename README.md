@@ -19,7 +19,9 @@
 This is the main repository for the AIAA DEIC Digital Ecosystem & Enterprise Subcommittee.
 It contains the source code for the [subcommittee website](https://deco.aiaadeic.org)
 and is the main location for collaboration for the subcommittee.
-We also use the discussions feature to discuss topics related to the digital ecosystem.
+
+Baseline documents for the subcommittee are provided in the Discussion groups, along with
+additions to the existing team roster.
 
 ## Contacts
 
